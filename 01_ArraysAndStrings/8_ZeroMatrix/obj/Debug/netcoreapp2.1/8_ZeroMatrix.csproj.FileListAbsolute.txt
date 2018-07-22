@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\8_ZeroMatrix\bin\Debug\netcoreapp2.1\8_ZeroMatrix.deps.json
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\8_ZeroMatrix\bin\Debug\netcoreapp2.1\8_ZeroMatrix.runtimeconfig.json
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\8_ZeroMatrix\bin\Debug\netcoreapp2.1\8_ZeroMatrix.runtimeconfig.dev.json
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\8_ZeroMatrix\bin\Debug\netcoreapp2.1\8_ZeroMatrix.dll
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\8_ZeroMatrix\bin\Debug\netcoreapp2.1\8_ZeroMatrix.pdb
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\8_ZeroMatrix\obj\Debug\netcoreapp2.1\8_ZeroMatrix.csprojAssemblyReference.cache
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\8_ZeroMatrix\obj\Debug\netcoreapp2.1\8_ZeroMatrix.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\8_ZeroMatrix\obj\Debug\netcoreapp2.1\8_ZeroMatrix.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\8_ZeroMatrix\obj\Debug\netcoreapp2.1\8_ZeroMatrix.AssemblyInfo.cs
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\8_ZeroMatrix\obj\Debug\netcoreapp2.1\8_ZeroMatrix.dll
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\8_ZeroMatrix\obj\Debug\netcoreapp2.1\8_ZeroMatrix.pdb

@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\6_StringCompression\bin\Debug\netcoreapp2.1\6_StringCompression.deps.json
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\6_StringCompression\bin\Debug\netcoreapp2.1\6_StringCompression.runtimeconfig.json
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\6_StringCompression\bin\Debug\netcoreapp2.1\6_StringCompression.runtimeconfig.dev.json
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\6_StringCompression\bin\Debug\netcoreapp2.1\6_StringCompression.dll
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\6_StringCompression\bin\Debug\netcoreapp2.1\6_StringCompression.pdb
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\6_StringCompression\obj\Debug\netcoreapp2.1\6_StringCompression.csprojAssemblyReference.cache
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\6_StringCompression\obj\Debug\netcoreapp2.1\6_StringCompression.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\6_StringCompression\obj\Debug\netcoreapp2.1\6_StringCompression.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\6_StringCompression\obj\Debug\netcoreapp2.1\6_StringCompression.AssemblyInfo.cs
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\6_StringCompression\obj\Debug\netcoreapp2.1\6_StringCompression.dll
+D:\Documents\Visual Studio Code\CrackingTheCodingInterview\01_ArraysAndStrings\6_StringCompression\obj\Debug\netcoreapp2.1\6_StringCompression.pdb
